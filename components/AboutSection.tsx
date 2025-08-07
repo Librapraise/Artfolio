@@ -13,8 +13,8 @@ export function AboutSection() {
               />
             </div>
             {/* Decorative elements */}
-            <div className="absolute -top-6 -left-6 w-24 h-24 border-2 border-indigo-600 rounded-xl z-0"></div>
-            <div className="absolute -bottom-6 -right-6 w-32 h-32 border-2 border-indigo-600 rounded-xl z-0"></div>
+            <div className="absolute -top-6 -left-4 md:-left-6 w-24 h-24 border-2 border-indigo-600 rounded-xl z-0"></div>
+            <div className="absolute -bottom-6 -right-4 md:-right-5 w-32 h-32 border-2 border-indigo-600 rounded-xl z-0"></div>
           </div>
           <div>
             <div className="inline-block px-4 py-2 bg-indigo-100 text-indigo-700 rounded-full mb-6">
@@ -25,7 +25,7 @@ export function AboutSection() {
             </h2>
             <div className="space-y-6 text-gray-600">
               <p>
-                With over 7 years of experience in the creative industry, I've
+                With over 5 years of experience in the creative industry, I've
                 had the privilege of working with brands across various sectors,
                 helping them communicate their message through compelling visual
                 design.
